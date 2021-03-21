@@ -1,0 +1,19 @@
+{
+  "name": "dispatch-system",
+  "version": "1.0.0",
+  "description": "一个调度系统，实现集中处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swing-hh/dispatch-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swing-hh/dispatch-system/issues"
+  },
+  "homepage": "https://github.com/swing-hh/dispatch-system#readme"
+}
